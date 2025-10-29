@@ -1,0 +1,3 @@
+GT4500,2,0,0,0
+TORPEDO,SINGLE # should fire from the primary
+TORPEDO,SINGLE # secondary is empty, should fire from the primary
