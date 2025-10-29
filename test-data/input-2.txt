@@ -1,0 +1,4 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE # should have fired from the primary store
+TORPEDO,SINGLE # should have fired from the secondary store
+TORPEDO,SINGLE # both should be empty

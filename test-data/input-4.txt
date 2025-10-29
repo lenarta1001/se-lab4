@@ -1,0 +1,3 @@
+GT4500,1,0,1,0
+TORPEDO,ALL # should fire all
+TORPEDO,SINGLE # both should be empty
